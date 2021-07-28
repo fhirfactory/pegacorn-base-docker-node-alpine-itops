@@ -1,4 +1,3 @@
-# The source files are in https://github.com/fhirfactory/pegacorn-buildingblocks-itops.git
 FROM node:14.16.0-alpine3.13 as js-builder
 
 WORKDIR /usr/src/app/
