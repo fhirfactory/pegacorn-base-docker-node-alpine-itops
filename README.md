@@ -1,2 +1,2 @@
-# pegacorn-base-docker-node-alpine-itops-1.0.0
+# pegacorn-base-docker-node-alpine-itops
 Base node-alpine image used in Grafana deployment
